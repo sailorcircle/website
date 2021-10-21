@@ -12,10 +12,10 @@ body {
 	margin: 0 auto;
 	width: 800px;
 	padding: 0;
-	background: #6e0427 url('../Shared%20Documents/images/body_bg.gif') repeat-x top;
+	background: #ff76ab url('../Shared%20Documents/images/body_bg.gif') repeat-x top;
 	font-family: Helvetica, sans-serif;
 	font-size: 62.5%;
-	color: #333;
+	color: rgb(46, 152, 191);
 }
 
 h1, h2, p, ul, li {
@@ -33,11 +33,11 @@ ul {
 }
 
 a:link {
-	color: #333;
+	color: rgb(100, 80, 255);
 	background: #eee;
 }
 a:visited {
-	color: #ff0000;
+	color: #ff66b3;
 	background: #eee;
 }
 
@@ -156,5 +156,5 @@ the layout
 	padding: 10px;
 	border-top: 2px solid #ddd;
 	text-align: center;
-	color: #777;
+	color: rgba(170, 90, 208, 0.823);
 }
